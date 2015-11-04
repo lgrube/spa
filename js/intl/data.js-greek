@@ -1,0 +1,4 @@
+// Greek "version" of our SPA view
+var dummyPage = '<b>όνομα: </b>τσοκ'
+		+ '<br><b> διεύθυνση: </b>837 kannal δικαστήριο'
+		+ '<br><b> ηλικία: </b>32<br>';
